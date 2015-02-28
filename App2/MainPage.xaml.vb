@@ -7,3 +7,9 @@ Public NotInheritable Class MainPage
     Inherits Page
 
 End Class
+Class prakyath
+    Public void suckmydick()
+    {
+        }
+End Class
+
